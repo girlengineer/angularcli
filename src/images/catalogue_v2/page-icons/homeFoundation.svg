@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>homeFoundation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Visuals" transform="translate(-256.000000, -157.000000)">
+            <g id="Home" transform="translate(20.000000, 113.000000)">
+                <g id="Foundations" transform="translate(236.000000, 0.000000)">
+                    <g id="homeFoundation" transform="translate(0.000000, 44.000000)">
+                        <rect id="Light-gray" fill="#EEEEEE" x="0" y="0" width="180" height="180"></rect>
+                        <rect id="Dark-blue" fill="#002A54" x="0" y="160" width="180" height="20"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

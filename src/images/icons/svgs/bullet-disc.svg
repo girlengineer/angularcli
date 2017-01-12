@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="5px" height="5px" viewBox="0 0 5 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Dot01</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2-White-Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.1-Typography" transform="translate(-90.000000, -3747.000000)" fill="#333333">
+            <g id="Lists" transform="translate(90.000000, 3667.000000)">
+                <g id="Unordered" transform="translate(0.000000, 73.000000)">
+                    <g id="Dots">
+                        <ellipse id="Dot01" cx="2.5" cy="9.5" rx="2.5" ry="2.5"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

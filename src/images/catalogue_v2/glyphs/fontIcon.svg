@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="20px" viewBox="0 0 15 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>fontIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 9.03125 0 15 6.01556396 15 20 0 20"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-3" points="9 0 15 6 9 6"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6" height="6" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D-Style-Guide" transform="translate(-256.000000, -2721.000000)">
+            <g id="Icons" transform="translate(20.000000, 2037.000000)">
+                <g id="Font" transform="translate(236.000000, 633.000000)">
+                    <g id="fontIcon" transform="translate(0.000000, 51.000000)">
+                        <use id="Rectangle-7" stroke="#056DAE" mask="url(#mask-2)" stroke-width="2.5" xlink:href="#path-1"></use>
+                        <text id="Aa" font-family="Interstate-BoldItalic, Interstate" font-size="8" font-style="italic" font-weight="bold" letter-spacing="-0.340000004" fill="#056DAE">
+                            <tspan x="2.978" y="14">A</tspan>
+                            <tspan x="8.606" y="14">a</tspan>
+                        </text>
+                        <use id="Combined-Shape" stroke="#056DAE" mask="url(#mask-4)" stroke-width="2.5" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

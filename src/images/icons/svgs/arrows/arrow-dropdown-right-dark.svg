@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3px" height="6px" viewBox="0 0 3 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>&gt;</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Toolkit/Grey-Background" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Accordians-and-Tables" sketch:type="MSArtboardGroup" transform="translate(-1263.000000, -588.000000)" fill="#002A54">
+            <g id="Tables" sketch:type="MSLayerGroup" transform="translate(900.000000, 100.000000)">
+                <g id="Table-Input" transform="translate(0.000000, 400.000000)" sketch:type="MSShapeGroup">
+                    <g id="Column-Labels" transform="translate(10.000000, 60.000000)">
+                        <g id="Account-Name" transform="translate(240.000000, 22.000000)">
+                            <path d="M115.938156,9.60794326 L115.938156,8.95205674 L113.44,6.56 L113.44,7.47631206 L115.369078,9.28964539 L113.44,11.1029787 L113.44,12 L115.938156,9.60794326 Z" id="&gt;"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="26px" viewBox="0 0 71 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>switch bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M63.3566017,11.3566017 L63.3566017,6.35660172 L63.3566017,5.10660172 L65.8566017,5.10660172 L65.8566017,6.35660172 L65.8566017,11.3566017 L70.8566017,11.3566017 L72.1066017,11.3566017 L72.1066017,13.8566017 L70.8566017,13.8566017 L65.8566017,13.8566017 L65.8566017,18.8566017 L65.8566017,20.1066017 L63.3566017,20.1066017 L63.3566017,18.8566017 L63.3566017,13.8566017 L58.3566017,13.8566017 L57.1066017,13.8566017 L57.1066017,11.3566017 L58.3566017,11.3566017 L63.3566017,11.3566017 Z" id="Line-Copy-3" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(64.606602, 12.606602) rotate(-315.000000) translate(-64.606602, -12.606602) "></path>
+        <rect id="Switch" fill="#FFFFFF" sketch:type="MSShapeGroup" x="23" y="0" width="26" height="26" rx="4"></rect>
+        <path d="M12.0385286,13.3716985 L12.9867191,14.2665476 C13.1563307,14.4271253 13.160498,14.6833413 12.996304,14.838409 L7.51914281,20.0028476 C7.35494881,20.1583089 7.08407038,20.1539796 6.91445881,19.9937955 L5.74676444,18.8910042 C5.57715287,18.73082 5.57298551,18.4749976 5.73717951,18.3195363 L9.75733326,14.5286278 L2.00280767,6.89539744 C1.83986388,6.74190401 1.84403124,6.48883664 2.01197586,6.32983319 L3.16800163,5.23845553 C3.33594625,5.07984565 3.60390753,5.07551635 3.76685132,5.22979693 L12.0385286,13.3716985 Z" id="Check" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(7.500000, 12.616742) rotate(-270.000000) translate(-7.500000, -12.616742) "></path>
+    </g>
+</svg>
